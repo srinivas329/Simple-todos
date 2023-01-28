@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.button {
+  background-color: #ffffff;
+  border-radius: 5px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  border-width: 2px;
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.list-align {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
